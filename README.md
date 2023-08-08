@@ -1,4 +1,4 @@
-# Bryan-Portfolio
+# Bryan Montilla - Portfolio
 # Data Scientist
 
 #### Technical Skills: Python, SQL, AWS, Snowflake,
